@@ -28,4 +28,9 @@
         android:layout_height="wrap_content"
         android:text="Testing the jenkins CI tool!" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Testing the jenkins CI tool!" />
+
 </RelativeLayout>
